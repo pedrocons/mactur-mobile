@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27874038471",
+    "project_id": "mactur-c9013",
+    "storage_bucket": "mactur-c9013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27874038471:android:379e4a5681d075ebcd24e2",
+        "android_client_info": {
+          "package_name": "br.com.mactur.mactur_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCypMCsn2RPAsL2aPmBJWJAfKlNLfiSya4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
